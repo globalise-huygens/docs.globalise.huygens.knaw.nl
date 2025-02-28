@@ -23,7 +23,7 @@ nav:
   #    - "Mission, Research Themes and Guiding Questions": mission/mission_researchthemes.md
   - "GLOBALISE Ethics Policy": ethics/policy.md
   #    - "Ethics Policy": ethics/policy.md
-<!--      - "Ethical Review of Work Processes": ethics/workflow-review.md -->
+
 markdown_extensions:
   - toc:
       permalink: True
